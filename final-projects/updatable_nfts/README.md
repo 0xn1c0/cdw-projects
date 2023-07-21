@@ -39,7 +39,7 @@ This contract extends ERC721URIStorage but implements the metadata fully on-chai
 
 ### What is unique about this approach is:
 - The metadata is stored in arrays that increase size with each `version` that is created through `createNewVersionOf()`
-`function tokenURI(uint _tokenId)` overrides the ERC721 function and will build and return the json representation of the current version of the given _tokenId (the head) 
+- `function tokenURI(uint _tokenId)` overrides the ERC721 function and will build and return the json representation of the current version of the given _tokenId (the head) 
 - `function tokenURI(uint _tokenId, uint _item)` is non-standard and will build and return the json representation of any `version` (_item is equivalent to the index of the arrays storing the versioned values) of the given _tokenId
 - This implementation strays farther from standard IPFS file usage and will have a significant affect on gas usage, especially as more versions are created.
 - It benefits from having the full lineage of data on-chain and queryable without reliance on outside data sources.
