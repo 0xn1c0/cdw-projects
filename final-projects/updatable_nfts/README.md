@@ -71,9 +71,9 @@ https://evm.confluxscan.io/address/0xe1453a7813e1e90ed80ceb2e1896fb92859fd054?ta
 #### Github Repo (4 versions)
 - Mint tokenId:0 [-screenshot-](static_assets/onchain_gh_v0.png)
 [-confluxscan-](https://evm.confluxscan.io/tx/0x9044949033a876a10f1ccd51bdb269b1f73fd6b95cbdf77d33e6a01fca8de600)
-- First createNewVersionOf [-screenshot-](static_assets/onchain_gh_v1.png)
+- First createNewVersionOf
 [-confluxscan-](https://evm.confluxscan.io/tx/0x991a55ceceb273861f65f21d6aae9344031459f2b59358b1fdaad5b33da12e8f)
-- Second createNewVersionOf [-screenshot-](static_assets/onchain_gh_v2.png)
+- Second createNewVersionOf
 [-confluxscan-](https://evm.confluxscan.io/tx/0xf124d24862373b89c6e4fbea8436fb3c776860cf8b0a26be9bc9fe6624490d46)
 - Third createNewVersionOf [-screenshot-](static_assets/onchain_gh_v3.png)
 [-confluxscan-](https://evm.confluxscan.io/tx/0x1eb7a6418c2e6bc70e588cb87f8114684a71cf97fceda9d724e8099a71a16a3e)
