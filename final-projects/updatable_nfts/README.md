@@ -1,14 +1,15 @@
-# This project contains strategies for adapting ERC-721 standards for use with data that is expected to change.
+# Updatable/Versioned NFTS: This project contains strategies for adapting ERC-721 standards for use with data that is expected to change.
 
 
 Data that changes over time is generally referred to versioned data, and strategies designed to model it effectively are called data versioning models.
 
+These strategies implement the most basic UPDATE ONLY model of versioned data.
 
-These strategies can be utilized to use the blockchain as the source of truth. 
+These strategies realize the blockchain as the `source of truth` index for data assets that exist elsewhere. They do not try to bring the data on-chain, rather use the NFT as an index that describes all instances or versions of the data in existence.
 
 Some examples of versioned data that could benefit from being stored on the blockchain:
 - Team rosters/pictures
-- Legal documents: contracts, legislative, regulatory, and court proceedings.
+- Legal documents: contracts, legislative, regulatory, and court proceedings with enumerated stages.
 - Documentation
 - Lineages detailing family trees or ownership 
 
