@@ -1,0 +1,4 @@
+ERC1155 - https://evmtestnet.confluxscan.io/address/0x034a53c5c1b79d00e66756b698ce7d8c53c12e95
+ERC20 - https://evmtestnet.confluxscan.io/address/0xf67d5bdf81314549efc9edb4617b3413d056e05f
+Demo video - https://www.youtube.com/watch?v=0_Il4ajSWvg&ab_channel=MarinMarinov
+Game Download - https://mmarinov1984.itch.io/web3rpg   or   https://drive.google.com/file/d/1SEw1XDtWxrT4bwieE3dego6UZXOMEDjr/view?usp=sharing

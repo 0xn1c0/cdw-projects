@@ -1,0 +1,10 @@
+I start with that idea mainly because I think it will be pritty easy to make it but to deal with web3 compunents its more chalanging from just to make web2 game.
+First I started with the core to make claim ERC20 and claim ERC1155 to work in UI buttons at Unity.With that I have some difficulties with implementing thirdweb SDK.
+When use custom token to pay for ERC1155 NFTs its need to change code to approve ERC20 contract and just then its work proper.
+Also have some problem with gas limit and authentification button.
+After I handle web3 I made classic game elements.
+Then I test so many times(that you can see from smart contract transactions)because always something not work proper or how I want.
+At the end I am happy with result but still I know 1-2 things that not work so good but they can be fix pritty easy.  
+In building process I learn about gasless smart contract(sposored gas)its kind of big thing for web3 games because many players just hate difficulties like need to have wallet(third web have solution for build in-game wallet)or handle gas trasactions.
+One thing that I not learn in this project building process but is super inportant is that I call - just ask to find the solution.
+Two times to find a solution of some problem I need to write to Thirdweb support team in Discord and they help me so much and so fast that I am realy amazed and gratefyl to them. 
